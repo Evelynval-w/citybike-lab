@@ -19,6 +19,9 @@ All changes must pass the automated tests before being merged into main.
 
 Peer review: checked README clarity
 
+## How we verify releases
+We run `python -m unittest discover -s tests -v` and only merge when every test passes
+
 ## Classroom rules
 
 - Work on a branch for each feature.
