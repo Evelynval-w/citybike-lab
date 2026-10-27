@@ -17,6 +17,7 @@ Python 3 and Git are the only tools needed for the offline lab.
 ## Release policy
 All changes must pass the automated tests before being merged into main.
 
+Peer review: checked README clarity
 
 ## Classroom rules
 
