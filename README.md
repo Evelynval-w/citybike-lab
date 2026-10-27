@@ -14,6 +14,10 @@ python -m unittest discover -s tests -v
 
 Python 3 and Git are the only tools needed for the offline lab.
 
+## Release policy
+All changes must pass the automated tests before being merged into main.
+
+
 ## Classroom rules
 
 - Work on a branch for each feature.
